@@ -19,7 +19,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
    
 Linux için:
 
-``cd kodluyoruzilkrepo
+``cd kodluyoruzilkrepo 
 code .``
 
 ## Contributing
